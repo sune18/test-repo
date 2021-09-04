@@ -1,10 +1,10 @@
-##This is the header
+## This is the header
 
-Here is some text
+Here is some content.
 
-   * bullet 1
-   * bullet 2
-   
-   [link to Google](https://www.google.com)
-   
-   More text.
+*Bullet 1
+*Bullet 2
+
+[Linke to google](http.google.com)
+
+Add more text,
